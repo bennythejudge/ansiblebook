@@ -1,5 +1,7 @@
 # Ansible: Up and Running code samples
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ansiblebook.svg)](https://www.guardrails.io)
+
 This repository contains code samples from [Ansible: Up and
 Running](http://ansiblebook.com), organized by book chapter.
 
